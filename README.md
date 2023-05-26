@@ -1,4 +1,4 @@
-## Bem-Vindo(a) ao meu perfil 😁
+## Bem-Vindo(a) ao meu perfil  😀
 
 <div>
   <a href="https://github.com/dhyemersson">
