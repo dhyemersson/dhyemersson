@@ -22,6 +22,6 @@
 <a href="https://instagram.com/dhyemersson_costa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/dhyemersson" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-  ![Animação de cobra](https://github.com/dhyemersson/dhyemersson/blob/output/github-contribution-grid-snake.svg)
+  ![Animação de cobra](https://github.com/dhyemersson/cobrinha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
