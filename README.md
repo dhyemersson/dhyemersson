@@ -1,4 +1,6 @@
-## Bem-Vindo(a) ao meu perfil 😁
+### Welcome to my profile! 🚀🚀
+#### 🎓 Currently studying Software Engineering 
+#### 🎓 Specializing in Full Stack
 
 <div>
   <a href="https://github.com/dhyemersson">
