@@ -45,3 +45,9 @@
   ![Animação de cobra](https://github.com/dhyemersson/dhyemersson/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+####  Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/dhyemersson/count.svg">  
+  
+![](assets/Bottom_down.svg)
